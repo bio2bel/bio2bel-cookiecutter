@@ -149,7 +149,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'bio2bel{{ bio2bel.module_name }}', 'Bio2BEL {{ cookiecutter.module_stylized }} Documentation',
+    (master_doc, 'bio2bel{{ cookiecutter.module_name }}', 'Bio2BEL {{ cookiecutter.module_stylized }} Documentation',
      [author], 1)
 ]
 
