@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""SQLAlchemy models for Bio2BEL {{ bio2bel.module_stylized }}."""
+"""SQLAlchemy models for Bio2BEL {{ cookiecutter.module_stylized }}."""
 
 import logging
 

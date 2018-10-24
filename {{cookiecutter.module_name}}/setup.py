@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Setup module for Bio2BEL {{ bio2bel.module_stylized }}."""
+"""Setup module for Bio2BEL {{ cookiecutter.module_stylized }}."""
 
 import setuptools
 

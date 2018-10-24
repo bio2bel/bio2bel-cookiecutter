@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Bio2BEL {{ bio2bel.module_stylized }}."""
+"""Bio2BEL {{ cookiecutter.module_stylized }}."""
 
 from .manager import Manager
 
