@@ -5,7 +5,6 @@
 from typing import Mapping
 
 from bio2bel import AbstractManager
-
 from .constants import MODULE_NAME
 from .models import Base
 
