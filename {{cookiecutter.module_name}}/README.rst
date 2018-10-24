@@ -1,5 +1,5 @@
-Bio2BEL {{ cookiecutter.module_stylized }}
-==========================================
+Bio2BEL {{ cookiecutter.module_stylized }} |build|
+==================================================
 
 Installation |pypi_version| |python_versions| |pypi_license|
 ------------------------------------------------------------
