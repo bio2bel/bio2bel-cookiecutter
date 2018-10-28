@@ -22,8 +22,8 @@ sys.path.insert(0, os.path.abspath('../../src'))
 # -- Project information -----------------------------------------------------
 
 project = 'Bio2BEL {{ cookiecutter.module_stylized }}'
-copyright = '2018, Charles Tapley Hoyt'
-author = 'Charles Tapley Hoyt'
+copyright = '2018, {{ cookiecutter.author }}'
+author = '{{ cookiecutter.author }}'
 
 release = '0.0.1-dev'
 
@@ -142,7 +142,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Bio2BEL{{ cookiecutter.module_stylized }}.tex', 'Bio2BEL {{ cookiecutter.module_stylized }} Documentation',
-     'Charles Tapley Hoyt', 'manual'),
+     '{{ cookiecutter.author }}', 'manual'),
 ]
 
 
