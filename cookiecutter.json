@@ -1,4 +1,5 @@
 {
     "module_name": "mirtarbase",
-    "module_stylized": "miRTarBase"
+    "module_stylized": "miRTarBase",
+    "author": "Charles Tapley Hoyt"
 }
