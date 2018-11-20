@@ -1,6 +1,7 @@
 {
     "module_name": "mirtarbase",
     "module_stylized": "miRTarBase",
+    "short_description": "",
     "author": "Charles Tapley Hoyt",
     "author_email": "cthoyt@gmail.com"
 }
