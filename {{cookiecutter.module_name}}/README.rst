@@ -39,7 +39,7 @@ Command Line Utility
 
 
 .. |build| image:: https://travis-ci.com/bio2bel/{{ cookiecutter.module_name }}.svg?branch=master
-    :target: https://travis-ci.org/bio2bel/{{ cookiecutter.module_name }}
+    :target: https://travis-ci.com/bio2bel/{{ cookiecutter.module_name }}
     :alt: Build Status
 
 .. |documentation| image:: http://readthedocs.org/projects/bio2bel-{{ cookiecutter.module_name }}/badge/?version=latest
