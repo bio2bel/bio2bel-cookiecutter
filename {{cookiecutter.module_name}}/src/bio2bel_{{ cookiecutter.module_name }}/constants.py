@@ -12,7 +12,7 @@ __all__ = [
 ]
 
 VERSION = '0.0.1-dev'
-MODULE_NAME = 'bio2bel_{{ cookiecutter.module_name }}'
+MODULE_NAME = '{{ cookiecutter.module_name }}'
 DATA_DIR = get_data_dir(MODULE_NAME)
 
 
