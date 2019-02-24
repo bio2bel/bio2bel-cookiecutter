@@ -11,10 +11,6 @@ __all__ = [
     'TemporaryCacheClass',
 ]
 
-HERE = os.path.abspath(os.path.dirname(__file__))
-TEST_MESH_DESCRIPTORS_PATH = os.path.join(HERE, 'test_mesh_descriptors.xml')
-
-
 class TemporaryCacheClass(AbstractTemporaryCacheClassMixin):
     """A test case containing a temporary database and a Bio2BEL {{ cookiecutter.module_stylized }} manager."""
 
@@ -24,4 +20,5 @@ class TemporaryCacheClass(AbstractTemporaryCacheClassMixin):
     @classmethod
     def populate(cls):
         """Populate the Bio2BEL {{ cookiecutter.module_stylized }} database with test data."""
+        # cls.manager.populate(url=...)
         raise NotImplementedError
