@@ -12,6 +12,6 @@ A cookiecutter for making new Bio2BEL repositories
 
 .. code-block:: bash
 
-   $ cookiecutter https://github.com/bio2bel/bio2bel-cookiecutte
+   $ cookiecutter https://github.com/bio2bel/bio2bel-cookiecutter
    
 3. Enter the requested information, then win!
