@@ -12,6 +12,7 @@ __all__ = [
     'Manager',
 ]
 
+
 class Manager(AbstractManager):
     """Manages the Bio2BEL {{ cookiecutter.module_stylized }} database."""
 
