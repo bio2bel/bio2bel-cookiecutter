@@ -2,8 +2,8 @@
 
 """{{ cookiecutter.short_description }}"""
 
-from .constants import get_version
 from .manager import Manager
+from .version import get_version
 
 __all__ = [
     'Manager',
