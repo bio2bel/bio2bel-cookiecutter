@@ -11,6 +11,7 @@ __all__ = [
     'TemporaryCacheClass',
 ]
 
+
 class TemporaryCacheClass(AbstractTemporaryCacheClassMixin):
     """A test case containing a temporary database and a Bio2BEL {{ cookiecutter.module_stylized }} manager."""
 
